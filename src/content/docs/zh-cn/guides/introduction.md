@@ -12,10 +12,10 @@ UI界面截图视频：
 
 https://github.com/user-attachments/assets/47eaeae5-4bc3-4702-a817-9fb2cde33b3f
 
-<video width="100%" controls>
+<!-- <video width="100%" controls>
   <source src="../assets/orca-note-ui.mp4" type="video/mp4">
   您的浏览器不支持视频标签。
-</video>
+</video> -->
 
 ## 注意
 
@@ -35,4 +35,4 @@ xattr -r -d com.apple.quarantine /Applications/Orca\ Note.app
 
 ## 联系作者Seth
 
-![Seth微信](../assets/seth-wechat.jpg)
+![Seth微信](../assets/Seth-wechat.jpg)
