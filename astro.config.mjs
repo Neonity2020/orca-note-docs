@@ -45,6 +45,11 @@ export default defineConfig({
                               'en': 'Download Links',
                           },
                        },
+                       { label: '快捷键', slug: 'guides/shortcuts',
+                          translations: {
+                              'en': 'Shortcuts',
+                          },
+                       },
                   ],
               },
               {
