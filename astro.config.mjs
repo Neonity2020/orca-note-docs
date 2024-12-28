@@ -49,7 +49,12 @@ export default defineConfig({
                           translations: {
                               'en': 'Shortcuts',
                           },
-                       },
+                        },
+                        { label: 'simple-task插件', slug: 'guides/simple-task-plugin',
+                            translations: {
+                                'en': 'Simple-task-plugin',
+                            },
+                        }
                   ],
               },
               {
