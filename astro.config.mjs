@@ -54,7 +54,13 @@ export default defineConfig({
                             translations: {
                                 'en': 'Simple-task-plugin',
                             },
-                        }
+                        },                        
+                        { label: 'simple-task彩屑插件', slug: 'guides/simple-task-canvas-confetti-plugin',
+                            translations: {
+                                'en': 'Simple-task-canvas-confetti-plugin',
+                            },
+                        },
+                       
                   ],
               },
               {
