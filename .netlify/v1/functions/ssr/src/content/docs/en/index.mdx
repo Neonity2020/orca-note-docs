@@ -1,0 +1,36 @@
+---
+title: Welcome to Neonity's Orca-Note Manual
+description: non-official manual for Orca-Note
+template: splash
+hero:
+  tagline: non-official manual for Orca-Note
+  image:
+    file: ../../../assets/orca-note-logo.png
+  actions:
+    - text: Get Started
+      link: /en/guides/example/
+      icon: right-arrow
+    - text: Read the official docs
+      link: https://www.orca-studio.com/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Features
+
+<CardGrid stagger>
+	<Card title="Bi-directional link" icon="pencil">
+		Use bi-directional link to navigate between notes and pages.
+	</Card>
+	<Card title="Local first" icon="add-document">
+		Orca-Note is a local first note app, which means that all your notes are stored locally on your device.
+	</Card>
+	<Card title="Configure your Orca-Note" icon="setting">
+		Set your own Orca-Note style.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in the [Orca-Note Official Docs](https://orca-note.org/).
+	</Card>
+</CardGrid>
